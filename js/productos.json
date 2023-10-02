@@ -1,0 +1,85 @@
+[
+    {
+        "id": "ryzen5-1",
+        "titulo": "Ryzen 5 3400g",
+        "categoria": {
+            "nombre": "procesadores",
+            "id": "procesadores"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Ryzen 7 5700g",
+        "categoria": {
+            "nombre": "procesadores",
+            "id": "procesadores"
+        },
+        "precio": 100000
+    },
+ 
+    {
+        
+        "titulo": "Motherboard Am4 B450m",
+        "categoria": {
+            "nombre": "discoPlacamadre",
+            "id": "discoPlacamadre"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Disco Solido 240gb",
+        "categoria": {
+            "nombre": "discoPlacamadre",
+            "id": "discoPlacamadre"
+        },
+        "precio": 15000
+    },
+    
+    {
+        "id": "pantalon-01",
+        "titulo": "Motherboard Am10 B450m",
+        "categoria": {
+            "nombre": "discoPlacamadre",
+            "id": "discoPlacamadre"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "GEFORCE RTX 3060",
+        "categoria": {
+            "nombre": "placavideoMemoria",
+            "id": "placavideoMemoria"
+        },
+        "precio": 260000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "GEFORCE RTX 1050",
+        "categoria": {
+            "nombre": "placavideoMemoria",
+            "id": "placavideoMemoria"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Memoria 4gb",
+        "categoria": {
+            "nombre": "placavideoMemoria",
+            "id": "placavideoMemoria"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Memoria 8gb",
+        "categoria": {
+            "nombre": "placavideoMemoria",
+            "id": "placavideoMemoria"
+        },
+        "precio": 9000
+    }
+]
